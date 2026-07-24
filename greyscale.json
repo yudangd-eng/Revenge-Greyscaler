@@ -1,0 +1,232 @@
+{
+    "name": "Greyscaler",
+    "description": "Ultimate minimalist pure OLED black monochrome theme layout. Complete blackouts with high contrast greyscale assets.",
+    "author": "FabianExplainer",
+    "semanticColors": {
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_NAVIGATION_BAR": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_CONTAINER": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_SURFACE": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "BACKGROUND_MODAL": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "EXPRESSION_PICKER_BG": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "FOCUS_PRIMARY": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "GUILD_HEADER_TEXT_SHADOW": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#b9bbbe",
+            "#b9bbbe",
+            "#b9bbbe"
+        ],
+        "INPUT_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#111111",
+            "#111111",
+            "#111111"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#222222",
+            "#222222",
+            "#222222"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "LOGO_PRIMARY": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "MENTION_FOREGROUND": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "MODAL_FOOTER_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "PANEL_BG": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_TEXT": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#222222",
+            "#222222",
+            "#222222"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#000000",
+            "#000000",
+            "#000000"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "STATUS_POSITIVE_BACKGROUND": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#b9bbbe",
+            "#b9bbbe",
+            "#b9bbbe"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff",
+            "#ffffff",
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#b9bbbe",
+        "PRIMARY_400": "#000000",
+        "PRIMARY_460": "#000000",
+        "PRIMARY_500": "#000000",
+        "PRIMARY_560": "#000000",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000",
+        "PRIMARY_900": "#000000",
+        "BLACK_500": "#000000",
+        "BLACK_530": "#000000",
+        "BLACK_600": "#000000",
+        "BRAND_500": "#ffffff",
+        "BRAND_260": "#ffffff",
+        "BRAND_360": "#ffffff",
+        "BRAND_560": "#ffffff",
+        "RED_400": "#ffffff",
+        "RED_430": "#ffffff",
+        "RED_460": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "PLUM_20": "#000000",
+        "PLUM_16": "#000000",
+        "PLUM_22": "#000000"
+    },
+    "background": {
+        "url": "",
+        "alpha": 1.0
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#ffffff",
+            "ic_mic_muted_neutral": "#222222",
+            "ic_soundboard": "#ffffff",
+            "ic_soundboard_muted": "#222222",
+            "ic_video": "#ffffff",
+            "ic_video_disabled": "#222222",
+            "ic_search": "#ffffff",
+            "ic_add_friend": "#ffffff",
+            "ic_message_status": "#ffffff",
+            "ic_dm_channel": "#ffffff",
+            "ic_nav_messages": "#ffffff",
+            "ic_nav_friends": "#ffffff",
+            "ic_nav_profile": "#ffffff",
+            "ic_add_attachment": "#ffffff",
+            "ic_gift": "#ffffff",
+            "ic_emoji": "#ffffff",
+            "ic_send": "#ffffff",
+            "ic_channel_settings": "#ffffff",
+            "ic_sidebar_burger": "#ffffff"
+        },
+        "iconpack": "rosiecord-plumpy"
+    },
+    "spec": 2
+}
